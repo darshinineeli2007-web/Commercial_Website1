@@ -344,6 +344,7 @@ alert("Thank you for choosing Royal Stay Hotel!");
 
 
 ## OUTPUT
+
 <img width="1892" height="915" alt="image" src="https://github.com/user-attachments/assets/51341699-02cf-4bc0-aa79-3158175add0d" />
 
 

@@ -1,5 +1,5 @@
 # Ex02 Commercial Website
-## Date:27-07-2026
+## Date:27-07-2026 
 
 ## AIM
 To create a commercial website using CSS Flexbox.
@@ -304,42 +304,6 @@ background:#020617;
 padding:30px;
 text-align:center;
 }
-```
-```
-scripts.js
-// Smooth Scroll
-
-document.querySelectorAll('nav a').forEach(link=>{
-
-link.addEventListener('click',function(e){
-
-e.preventDefault();
-
-const target=document.querySelector(this.getAttribute('href'));
-
-if(target){
-
-target.scrollIntoView({
-behavior:'smooth'
-});
-
-}
-
-});
-
-});
-
-// Button Alert
-
-document.querySelectorAll("button").forEach(btn=>{
-
-btn.addEventListener("click",()=>{
-
-alert("Thank you for choosing Royal Stay Hotel!");
-
-});
-
-});
 ```
 ## OUTPUT
 <img width="1892" height="915" alt="image" src="https://github.com/user-attachments/assets/51341699-02cf-4bc0-aa79-3158175add0d" />

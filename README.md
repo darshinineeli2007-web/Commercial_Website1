@@ -177,7 +177,6 @@ and unforgettable hospitality.
 
 </footer>
 
-<script src="script.js"></script>
 
 </body>
 </html>
